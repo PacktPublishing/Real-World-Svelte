@@ -3,4 +3,10 @@
   const scrollPosition = createStore();
 </script>
 
-Scroll position {$scrollPosition}
+<div>Scroll position {$scrollPosition}</div>
+
+<style>
+	div {
+		position:fixed;
+	}
+</style>

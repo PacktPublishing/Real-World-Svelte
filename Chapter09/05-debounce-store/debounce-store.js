@@ -1,4 +1,4 @@
-import { derived } from 'svelte/store';
+import { writable } from 'svelte/store';
 
 export default function debounce(initialValue) {
   const debounced = writable(initialValue, () => {

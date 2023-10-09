@@ -1,4 +1,5 @@
 <script>
+  import { writable } from 'svelte/store';
   import undoRedo from './undo-redo';
   const store = undoRedo(writable(''));
 </script>
