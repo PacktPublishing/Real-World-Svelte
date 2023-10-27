@@ -26,7 +26,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 All of the code is organized into folders. 
 
 **Following is what you need for this book:**
-This book is designed for experienced web developers seeking to enhance their skills and create high-performance web applications. Familiarity with JavaScript, frontend development, and basic Svelte concepts is recommended, making it ideal for professionals and developers looking to master Svelte's advanced features.
+This book is for experienced web developers looking to enhance their skills and create high-performance web applications. Familiarity with JavaScript, frontend development, and basic Svelte concepts is recommended, making it ideal for professionals and developers who want to master Svelte's advanced features.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 ### Software and Hardware List
