@@ -1,5 +1,5 @@
 <script>
-  import { fade, slide } from 'svelte/transition';
+  import { fade } from 'svelte/transition';
 
   let condition1 = false;
   let condition2 = false;
