@@ -16,10 +16,10 @@
   <Popup>popup 1</Popup>
 {/if}
 {#if showPopup2}
-  <Popup>popup 1</Popup>
+  <Popup>popup 2</Popup>
 {/if}
 {#if showPopup3}
-  <Popup>popup 1</Popup>
+  <Popup>popup 3</Popup>
 {/if}
 
 <style>
